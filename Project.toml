@@ -3,6 +3,9 @@ uuid = "e6e7dab9-4f3c-4707-a4e2-5f5a08172be1"
 authors = ["marcus ashford"]
 version = "0.1.0"
 
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+
 [compat]
 julia = "1"
 
